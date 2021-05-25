@@ -48,7 +48,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-The project uses research from various sources to create a semiconductor production queuing model. 
+As demand for semiconductors grows and production capacity becomes increasingly strained, this project considers how a queueing model might be used to guide capacity growth discussions and estimate potential impacts of adding different forms of production capacity. The proposed model uses a poisson distribution to estimate daily orders and order probabilities from actual demand to estimate likely order type. It then uses daily machine capacity estimates to process orders while tracking machine idle time, missed orders, wait time, and revenue. 
 
 ### Built With
 
