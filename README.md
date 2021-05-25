@@ -13,7 +13,7 @@
   <p align="center">
    Photo by <a href="https://unsplash.com/@christianw?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Christian Wiediger</a> on <a href="https://unsplash.com/s/photos/semiconductor?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
   
-  <b>Goal:</b> This project intends to explore the use of a queuing model for semiconductor production.
+  <b>Goal:</b> This project explores the use of a queuing model to approximate semiconductor production capacity.
     <br />
     <a href="https://github.com/jtourkis/Semi-Conductor-Industry"><strong>Explore the docs »</strong></a>
     <br />
@@ -53,7 +53,7 @@ As demand for semiconductors grows and production capacity becomes increasingly 
 ### Built With
 
 * [Python](https://www.python.org) / [Jupyter Notebook](https://jupyter.org)
-
+* [Numpy](https://numpy.org) 
 
 <!-- GETTING STARTED -->
 ## Getting Started
@@ -98,9 +98,9 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 <!-- ROADMAP -->
 ## Roadmap
 Using the available data, we will attempt to answer 4 questions.
-1) Overview of the semi-conductor industry challenges. 
+1) Overview of the semiconductor industry opportunities and challenges. 
 
-2) Create production queuing model to approximate different production types. 
+2) Create python production queuing model to approximate different production quantities based on capacity. 
 
 3) Evaluate queuing model. 
 
@@ -144,7 +144,7 @@ Project Link: [https://github.com/jtourkis/Semi-Conductor-Industry](https://gith
 ## Acknowledgements
 
 * [Best-README-Template](https://github.com/othneildrew/Best-README-Template/blob/master/BLANK_README.md) 
-* [Harvard Extension School Mathematical Modeling](https://online-learning.harvard.edu/course/mathematical-modeling?delta=0)
+* [Harvard Extension School AM115 Mathematical Modeling](https://online-learning.harvard.edu/course/mathematical-modeling?delta=0)
 
 
 
