@@ -144,7 +144,7 @@ Project Link: [https://github.com/jtourkis/Semi-Conductor-Industry](https://gith
 ## Acknowledgements
 
 * [Best-README-Template](https://github.com/othneildrew/Best-README-Template/blob/master/BLANK_README.md) 
-* [General Assembly](https://generalassemb.ly)
+* [Harvard Extension School Mathematical Modeling](https://online-learning.harvard.edu/course/mathematical-modeling?delta=0)
 
 
 
