@@ -145,6 +145,7 @@ Project Link: [https://github.com/jtourkis/Semi-Conductor-Industry](https://gith
 
 * [Best-README-Template](https://github.com/othneildrew/Best-README-Template/blob/master/BLANK_README.md) 
 * [Harvard Extension School AM115 Mathematical Modeling](https://online-learning.harvard.edu/course/mathematical-modeling?delta=0)
+* [See Paper Citations](https://github.com/jtourkis/Semi-Conductor-Industry/blob/main/Math%20Modeling%20Semi%20Conductor%20Paper.pdf)
 
 
 
