@@ -10,7 +10,6 @@
   <a href="https://github.com/jtourkis/Semi-Conductor-Industry">
     <img src="Successful_Campaign_Graph.png" alt="AB" width="300" height="300" style="border:5px solid black">
   </a>
- Photo by <a href="https://unsplash.com/@christianw?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Christian Wiediger</a> on <a href="https://unsplash.com/s/photos/semiconductor?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
   <p align="center">
    Photo by <a href="https://unsplash.com/@christianw?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Christian Wiediger</a> on <a href="https://unsplash.com/s/photos/semiconductor?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
   
